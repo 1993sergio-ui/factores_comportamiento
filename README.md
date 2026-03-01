@@ -1,4 +1,5 @@
 NovaRetail: Análisis de Comportamiento del Consumidor y Optimización de Ventas
+
 📊 Descripción del Proyecto
 Este proyecto consiste en un análisis exhaustivo de los datos de NovaRetail, con el objetivo de identificar patrones de compra, segmentar clientes y proponer estrategias basadas en datos para mejorar la retención y el ticket promedio.
 
